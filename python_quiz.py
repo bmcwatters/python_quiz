@@ -109,4 +109,3 @@ else:
     print("Study some more and try again later.")
 print()
 print("Thanks for playing!")
-print()
