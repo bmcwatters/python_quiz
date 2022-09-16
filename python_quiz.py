@@ -103,7 +103,7 @@ print("You got " + str(score) + " questions correct!")
 print("That's a " + str(score/10 * 100) + "%")
 if score >= 90:
     print("Great Job!")
-elif score >=70 and score <90:
+elif score >= 70 and score < 90:
     print("Not too bad! Room for improvement.")
 else:
     print("Study some more and try again later.")
